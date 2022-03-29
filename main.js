@@ -1,9 +1,9 @@
 let html = document.querySelector("#html")
 let style = document.querySelector("#css")
 let n = 0
-let string = `/*你好我是吴鹏飞，求职中
+let string = `/*你好我是吴鹏飞
  * 现在我将做一个 CSS 动画展示我的学习成果
- * 望得到一个工作的机会*/
+ */
 * {
     margin:0;
     padding:0;
